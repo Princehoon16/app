@@ -16,6 +16,8 @@ HTML, CSS	Node.js, Express	MongoDB	Git, GitHub
 React, Next.js	REST APIs	Mongoose	Tailwind CSS
 JavaScript	JWT Authentication		jsPDF
 Responsive Design	CRUD Operations		VS Code
+
+
 📁 Folder Structure
 portfolio/ ├── components/ # UI & reusable components ├── pages/ # Next.js pages ├── public/ # Images & assets ├── styles/ # Tailwind/Global CSS ├── context/ # Theme Context ├── package.json └── README.md
 
