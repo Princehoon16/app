@@ -1,40 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+💼 Prince Hoon Portfolio
+Welcome to my personal Portfolio Website, showcasing my projects, skills, and contact information. Built with Next.js, React, Tailwind CSS with full Dark/Light Mode support.
 
-## Getting Started
+🚀 Projects
+1. GST Mini Project
+Description: A GST calculator with invoice generation.
+Features:
+Add items and auto-calculate SGST/CGST
+View totals & download PDF invoice
+Tech Stack: React, Tailwind CSS, jsPDF
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🧠 Skills
+Frontend	Backend	Database	Tools/Other
+HTML, CSS	Node.js, Express	MongoDB	Git, GitHub
+React, Next.js	REST APIs	Mongoose	Tailwind CSS
+JavaScript	JWT Authentication		jsPDF
+Responsive Design	CRUD Operations		VS Code
+📁 Folder Structure
+portfolio/ ├── components/ # UI & reusable components ├── pages/ # Next.js pages ├── public/ # Images & assets ├── styles/ # Tailwind/Global CSS ├── context/ # Theme Context ├── package.json └── README.md
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+⚙️ Setup Instructions
+1. Clone Repository
+``bash git clone https://github.com/Princehoon16/app.git cd port
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Install Dependencies npm install
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Run Development Server npm run dev
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+Visit http://localhost:3000
+Dark / Light Mode
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Toggle using the switch on the main page
 
-## Learn More
+Preference saved in localStorage
 
-To learn more about Next.js, take a look at the following resources:
+📬 Contact
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
+Email: princehoon399@gmail.com
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+LinkedIn: Prince hoon
 
-## Deploy on Vercel
+GitHub: Princehoon16
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+👩‍💻 About Me
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+I am a dedicated Full-Stack Developer passionate about creating efficient, clean, and user-friendly web applications. I enjoy learning new technologies and constantly improving my skills to create professional digital experiences.
+
+⭐ Feedback
+
+If you like this portfolio, feel free to ⭐ star this repository on GitHub! Your support motivates me to create more projects and improve continuously! 🚀✨
+
